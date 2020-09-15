@@ -6,11 +6,11 @@ I am building a business making racing games and sharing the process; good and _
 
 ### Find me:
 
-- 📺[Twitch](https://www.twitch.tv/timbeaudet)
-- 🐦[Twitter](https://twitter.com/timbeaudet)
-- 📽[YouTube](https://www.youtube.com/timbeaudet)
-- 🎮[Games on itch.io](https://timbeaudet.itch.io/)
-- 🌐[TimBeaudet's Website](https://www.timbeaudet.com/portfolio/career.html)
+- 📺 [Twitch](https://www.twitch.tv/timbeaudet)
+- 🐦 [Twitter](https://twitter.com/timbeaudet)
+- 📽 [YouTube](https://www.youtube.com/timbeaudet)
+- 🎮 [Games on itch.io](https://timbeaudet.itch.io/)
+- 🌐 [TimBeaudet's Website](https://www.timbeaudet.com/portfolio/career.html)
 
 ### Some Fun Facts
 
@@ -21,9 +21,9 @@ I am building a business making racing games and sharing the process; good and _
 
 ### Watch or read more content:
 
-- 📖[dev.to blog posts](https://dev.to/timbeaudet)
-- 📺[Past Twitch Streams](https://www.twitch.tv/timbeaudet/videos)
-- 📺[YouTube Videos on GameDev as Business](https://www.youtube.com/timbeaudet)
+- 📖 [dev.to blog posts](https://dev.to/timbeaudet)
+- 📺 [Past Twitch Streams](https://www.twitch.tv/timbeaudet/videos)
+- 📺 [YouTube Videos on GameDev as Business](https://www.youtube.com/timbeaudet)
 - 💬 Ask me anything about Game Development!
 
 <!--
